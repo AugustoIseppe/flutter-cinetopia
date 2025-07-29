@@ -1,5 +1,8 @@
 
+<img width="1920" height="1080" alt="cinetopia" src="https://github.com/user-attachments/assets/7f0de920-8fd7-4bda-ba00-44ff42191072" />
+
 # 🎬 Cinetopia
+
 
 O **Cinetopia** é um projeto Flutter de estudo feito na Alura, utilizando o padrão **MVVM (Model-View-ViewModel)**. O foco foi aprender uma arquitetura que permite ao app ser escalável, com componentes reutilizáveis e navegação fluida.
 
