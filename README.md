@@ -14,6 +14,7 @@ O **Cinetopia** é um projeto Flutter de estudo feito na Alura, utilizando o pad
 - ✅ Widget **InkWell** para interação com feedback visual
 - ✅ Navegação com **BottomNavigationBar**
 - ✅ Rolagem com **CustomScrollView**
+- ✅ Consumo de API - The Movie Db - https://www.themoviedb.org
 
 ## 📁 Estrutura do projeto
 
