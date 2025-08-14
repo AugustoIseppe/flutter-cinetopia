@@ -1,8 +1,16 @@
-
 <img width="1920" height="1080" alt="cinetopia" src="https://github.com/user-attachments/assets/7f0de920-8fd7-4bda-ba00-44ff42191072" />
 
-# 🎬 Cinetopia
+# 🎬 Cinetopia - App Flutter de Filmes
 
+![Flutter](https://img.shields.io/badge/Flutter-3.5+-blue?logo=flutter&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-lightgrey)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-orange)
+![API](https://img.shields.io/badge/API-The%20Movie%20DB-red)
+![BottomNavigationBar](https://img.shields.io/badge/BottomNavigationBar-Navigation-blue)
+![CustomScrollView](https://img.shields.io/badge/CustomScrollView-Scrolling-lightblue)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+> Projeto Flutter de estudo feito na Alura, utilizando o padrão MVVM para escalabilidade, componentes reutilizáveis e navegação fluida.
 
 O **Cinetopia** é um projeto Flutter de estudo feito na Alura, utilizando o padrão **MVVM (Model-View-ViewModel)**. O foco foi aprender uma arquitetura que permite ao app ser escalável, com componentes reutilizáveis e navegação fluida.
 
